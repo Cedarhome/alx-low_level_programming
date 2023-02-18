@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -m32 -masm=intel_syntax -S hello.c -o hello.s
+g++ -S -masm=intel test.cpp
