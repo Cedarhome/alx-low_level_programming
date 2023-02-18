@@ -1,2 +1,2 @@
 #!/bin/bash
-clang++ -S -mllvm --x86-asm-syntax=intel test.cpp
+gcc -S $CFILE
