@@ -2,8 +2,10 @@
 
 /**
  * main - Print _putchar
- * Return: Always 0
+ * written by cedarhome
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('_');
